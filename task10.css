@@ -71,14 +71,15 @@ footer{
         }
       
     main{
-            width: 100%;
+            width: 90%;
             display: block;
         }
       
     .box{
-            width: 90%;
+            width: 100%;
             margin-bottom: 20px;
             padding: 10px;
+            margin: 0 auto;
         }
       
     .box:first-child{
